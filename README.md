@@ -7,7 +7,8 @@ some fancy stuff
 
 **about javascrpit**
 
-[dmitrysoshnikov's blog](http://dmitrysoshnikov.com/)
+[language features](http://dmitrysoshnikov.com/)
+[design pattern](https://medium.com/beginners-guide-to-mobile-web-development/javascript-design-patterns-25f0faaaa15)
 
 **about browser**
 
