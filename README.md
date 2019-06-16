@@ -3,7 +3,7 @@ some fancy stuff
 
 **ES6**
 
-[promise javascript implementing with state machine](https://hackernoon.com/implementing-javascript-promise-in-70-lines-of-code-b3592565af0f)
+[promise javascript implementing with state machine](https://hackernoon.com/implementing-javascript-promise-in-70-lines-of-code-b3592565af0f)  (ps: some classical scenarios really need state machine , [game animation stystem](https://docs.unrealengine.com/en-US/Engine/Animation/StateMachines/Overview/index.html))
 
 **about javascrpit**
 
