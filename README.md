@@ -3,7 +3,7 @@ some fancy stuff
 
 **ES6**
 
-[promise javascript implementing with state machine](https://hackernoon.com/implementing-javascript-promise-in-70-lines-of-code-b3592565af0f)  (ps: some classical scenarios really need state machine , [game animation stystem](https://docs.unrealengine.com/en-US/Engine/Animation/StateMachines/Overview/index.html))
+[promise javascript implementing with state machine](https://hackernoon.com/implementing-javascript-promise-in-70-lines-of-code-b3592565af0f)  (ps: some classical scenarios really need state machine , [game animation system](https://docs.unrealengine.com/en-US/Engine/Animation/StateMachines/Overview/index.html))(pss: however, if you dig into game animation systems, you will find state machine is just not enough for modern act game design , [next generation of animation systems](https://twvideo01.ubm-us.net/o1/vault/gdc2016/Presentations/Clavet_Simon_MotionMatching.pdf))
 
 **about javascrpit**
 
