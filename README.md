@@ -15,3 +15,7 @@ some fancy stuff
 
 [google's document](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model)
 
+**about REACT**
+
+[React DOM’s event handling system](https://medium.com/the-guild/getting-to-know-react-doms-event-handling-system-inside-out-378c44d2a5d0)
+
