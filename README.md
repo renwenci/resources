@@ -1,5 +1,5 @@
 # resources
-some fancy stuff 
+exploration is human nature
 
 **ES6**
 
